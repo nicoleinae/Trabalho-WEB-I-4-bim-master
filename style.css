@@ -161,7 +161,7 @@ blockquote:before
 
 .sm-clean li a.current
 {
-    color: #white;
+    color: white;
 }
 
 .header-image img
@@ -326,7 +326,7 @@ body.blog .more-posts
 
 body.blog .more-posts:hover
 {
-    background-color: #464642;
+    background-color: #10436D;
 }
 
 body.blog .more-posts
@@ -544,13 +544,13 @@ body.blog .more-posts
 {
     padding: 0 100px;
     font-size: 12px;
-    color: #7b7976;
+    color: #10436D;
     text-transform: uppercase;
 }
 
 .single-post .post-info a 
 {
-    color: #7b7976;
+    color: #10436D;
 }
 
 .single-post .post-info a:hover 
@@ -705,7 +705,7 @@ body.blog .more-posts
     top: 0;
     left: 0;
     text-align: center;
-    background-color: #51504c;    
+    background-color: #10436D;    
     color: #cdc8c1;
 }
 
@@ -829,7 +829,7 @@ ul.archive-list li span
 
 .contact-form input[type=text], .contact-form input[type=email], .contact-form textarea
 {
-    border: 2px solid #cdc8c1;
+    border: 2px solid #081E30;
     padding-top: 14px;
     padding-bottom: 14px;
     margin: 11px 0;
@@ -838,7 +838,7 @@ ul.archive-list li span
     font-weight: 700;
     font-family: 'Montserrat', sans-serif, Arial;
     width: 100%;
-    color: #cdc8c1;
+    color: #081E30;
     text-indent: 40px;
 }
 
@@ -856,7 +856,7 @@ ul.archive-list li span
     cursor: pointer;
     vertical-align: middle;
     text-decoration: none;
-    background-color: #cdc8c1;
+    background-color: #10436D;
     font-family: 'Montserrat', sans-serif, Arial;
     font-weight: 700;
     width: 100%;
@@ -865,13 +865,13 @@ ul.archive-list li span
 }
 .contact-form input[type=submit]:hover
 {   
-    background-color: #dfdad4;
+    background-color: #081E30;
 }
 
 .contact-form input[type=text]::-webkit-input-placeholder, .contact-form input[type=email]::-webkit-input-placeholder, .contact-form textarea::-webkit-input-placeholder
 {
     font-family: 'Montserrat', sans-serif, Arial;
-    color: #cec8bf;
+    color: #10436D;
     font-weight: 700;
     font-size: 18px;
     line-height: 25px;
@@ -1351,7 +1351,7 @@ li.left-footer-content.mobile
         padding-bottom: 20px;
         margin-top: -20px;
         display: block !important;
-        background-color: #3A3A37;
+        background-color: #10436D;
     }
 
     .main-menu.sm-clean
