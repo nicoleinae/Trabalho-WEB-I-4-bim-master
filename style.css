@@ -33,7 +33,7 @@ body a, body input, body button
 
 body a:hover
 {
-    color: #FCD000;
+    color: #081E30;
 }
 
 .queryloader__overlay__bar
@@ -161,7 +161,7 @@ blockquote:before
 
 .sm-clean li a.current
 {
-    color: #FCD000;
+    color: #white;
 }
 
 .header-image img
@@ -915,12 +915,12 @@ ul.archive-list li span
     margin-top: 170px;
     padding-bottom: 70px;
     clear: both;
-    color: #50504c;
+    color: white;
 }
 
 .footer a
 {
-    color: #50504c;
+    color: white;
 }
 
 .footer .fa-heart
@@ -1351,7 +1351,7 @@ li.left-footer-content.mobile
         padding-bottom: 20px;
         margin-top: -20px;
         display: block !important;
-        background-color: #081E30;
+        background-color: #3A3A37;
     }
 
     .main-menu.sm-clean
