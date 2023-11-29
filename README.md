@@ -10,7 +10,6 @@ Tecnologias utilizadas:
 HTML
 CSS
 JavaScript
-FeatherIcons
 VsCode
 GitHub
 
